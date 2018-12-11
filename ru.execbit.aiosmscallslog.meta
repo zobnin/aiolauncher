@@ -1,6 +1,1 @@
-{
-	"name": "AIO SMS & Calls Log Plugin",
-	"version": "1.0.6",
-	"versionCode": 7
-}
-
+{ "name":"AIO SMS & Calls Plugin", "version":"1.0.7", "versionCode":"8" }
